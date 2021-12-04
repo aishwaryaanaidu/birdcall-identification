@@ -1,0 +1,26 @@
+[
+    {
+        "id": "blujay",
+        "name": "Blue jay",
+        "description": "The blue jay (Cyanocitta cristata) is a passerine bird in the family Corvidae, native to eastern North America. It lives in most of the eastern and central United States; some eastern populations may be migratory. Resident populations are also found in Newfoundland, Canada; breeding populations are found across southern Canada. It breeds in both deciduous and coniferous forests, and is common in residential areas. Its coloration is predominantly blue, with a white chest and underparts, and a blue crest; it has a black, U-shaped collar around its neck and a black border behind the crest. Males and females are similar in size and plumage, and plumage does not vary throughout the year. Four subspecies have been recognized. The blue jay feeds mainly on seeds and nuts, such as acorns, which it may hide to eat later; soft fruits; arthropods; and occasionally small vertebrates. It typically gleans food from trees, shrubs, and the ground, and sometimes hawks insects from the air. Blue jays can be very aggressive to other birds; they sometimes raid nests, and have decapitated other birds.",
+        "img": "../images/bluejay.jpeg"
+    },
+    {
+        "id": "amerob",
+        "name": "American Robin",
+        "description": "The quintessential early bird, American Robins are common sights on lawns across North America, where you often see them tugging earthworms out of the ground. Robins are popular birds for their warm orange breast, cheery song, and early appearance at the end of winter. Though they’re familiar town and city birds, American Robins are at home in wilder areas, too, including mountain forests and Alaskan wilderness. An American Robin can produce three successful broods in one year. On average, though, only 40 percent of nests successfully produce young. Only 25 percent of those fledged young survive to November. From that point on, about half of the robins alive in any year will make it to the next. Despite the fact that a lucky robin can live to be 14 years old, the entire population turns over on average every six years.Although robins are considered harbingers of spring, many American Robins spend the whole winter in their breeding range. But because they spend more time roosting in trees and less time in your yard, you're much less likely to see them. The number of robins present in the northern parts of the range varies each year with the local conditions.",
+        "img": "./images/amerob.jpeg"
+    },
+    {
+        "id": "moudov",
+        "name": "Mourning Dove",
+        "description": "The mourning dove (Zenaida macroura) is a member of the dove family, Columbidae. The bird is also known as the American mourning dove, the rain dove, and colloquially as the turtle dove, and was once known as the Carolina pigeon and Carolina turtledove.[2] It is one of the most abundant and widespread of all North American birds. It is also a leading gamebird, with more than 20 million birds (up to 70 million in some years) shot annually in the U.S., both for sport and meat. Its ability to sustain its population under such pressure is due to its prolific breeding; in warm areas, one pair may raise up to six broods of two young each in a single year. The wings make an unusual whistling sound upon take-off and landing, a form of sonation. The bird is a strong flier, capable of speeds up to 88 km/h (55 mph).[3] It is the national bird of the British Virgin Islands.",
+        "img": "./images/moudov.jpeg"
+    },
+    {
+        "id": "norcar",
+        "name": "Northern cardinal",
+        "description": "The northern cardinal (Cardinalis cardinalis) is a bird in the genus Cardinalis; it is also known colloquially as the redbird, common cardinal, red cardinal, or just cardinal (which was its name prior to 1985). It can be found in southeastern Canada, through the eastern United States from Maine to Minnesota to Texas, and south through Mexico, Belize, and Guatemala. It is also an introduced species in a few locations such as Bermuda and Hawaii. Its habitat includes woodlands, gardens, shrublands, and wetlands. The northern cardinal is a mid-sized songbird with a body length of 21–23 cm (8.3–9.1 in). It has a distinctive crest on the head and a mask on the face which is black in the male and gray in the female. The male is a vibrant red, while the female is a reddish olive color. The northern cardinal is mainly granivorous, but also feeds on insects and fruit. The male behaves territorially, marking out his territory with song. During courtship, the male feeds seed to the female beak-to-beak. A clutch of three to four eggs is laid, and two to four clutches are produced each year. It was once prized as a pet, but its sale as a cage bird was banned in the United States by the Migratory Bird Treaty Act of 1918.",
+        "img": "./images/norcar.jpeg"
+    }
+]
