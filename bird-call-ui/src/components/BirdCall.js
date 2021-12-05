@@ -14,6 +14,7 @@ const images = {
       amerob: require('../images/amerob.jpeg').default,
       moudov: require('../images/moudov.jpeg').default,
       norcar: require('../images/norcar.jpeg').default,
+      houspa: require('../images/houspa.jpeg').default,
       empty: require('../images/empty.webp').default
     }
   };
